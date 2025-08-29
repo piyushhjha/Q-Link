@@ -30,10 +30,6 @@ python simulate.py --p 0.0 0.02 0.04 0.06 0.08 --shots 4096
 streamlit run streamlit_app.py
 ```
 
-## Run tests
-```bash
-pytest -q
-```
 
 ## Files
 - `superdense.py` — core circuits, noise, and utilities
