@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# OS / IDE files
+.DS_Store
+*.log
+
+# Local results
+results.csv

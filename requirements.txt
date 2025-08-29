@@ -1,0 +1,7 @@
+qiskit~=1.2
+qiskit-aer~=0.15
+numpy~=1.26
+matplotlib~=3.9
+pandas~=2.2
+streamlit~=1.37
+pytest~=8.3
